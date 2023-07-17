@@ -2,6 +2,7 @@
 
 - OCMOD Editor: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22015
 - 3.0 Bug Fixes (**$22.99**): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35498
+- Fix OC 3.x Extension Installer: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33410
 - QuickSave for Products, Categories, Manufacturers and Infos: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26386
 - EnableDisable Products - add buttons for batch processing: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22888
 - Filter By Category: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34415
