@@ -1,6 +1,7 @@
 # Opencart extensions
 
 - OCMOD Editor: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22015
+- [OCN] Twig Debug (Отладка twig): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39918
 - 3.0 Bug Fixes (**$22.99**): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35498
 - Fix OC 3.x Extension Installer: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33410
 - Admin Menu Fix Opencart 3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42126
