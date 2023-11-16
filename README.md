@@ -19,3 +19,4 @@
 - Guest Order View - Let guest customers track their order: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=21223
 - Guest Order View: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=4332
 - Extra pages OC 2,3x: Latest, Popular, Bestsellers, All products: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26172
+- BestPrice 360: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38118
