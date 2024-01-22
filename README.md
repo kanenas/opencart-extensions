@@ -12,6 +12,7 @@
 - Admin Category Filter: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39791
 - Remove Opencart Ads from Admin: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37717
 - Order delete button for opencart 3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40749
+- [Free] Ajax live search: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26240
 - Google reCAPTCHA V3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41838
 - Return Email: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36977
 - Mail On Return - Notify Admin For Product Return: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=19782
