@@ -13,6 +13,7 @@
 - Admin Category Filter: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=39791
 - Remove Opencart Ads from Admin: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37717
 - Order delete button for opencart 3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40749
+- Add product image column to order form and print invoice: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41145
 - [Free] Ajax live search: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26240
 - ExtendedSearch - extends the standard search functionality: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22288
 - WebP Images: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38025
