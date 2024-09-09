@@ -28,4 +28,5 @@
 - Extra pages OC 2,3x: Latest, Popular, Bestsellers, All products: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26172
 - Always display categorys/subcategories in breadcrumbs: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=32612
 - BestPrice 360: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38118
+- Deutsch / German v.3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=31048
 - Christmas Snow Flake: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=28741
