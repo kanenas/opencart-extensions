@@ -19,6 +19,7 @@
 - ExtendedSearch - extends the standard search functionality: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22288
 - WebP Images: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38025
 - WebP Images for Opencart 2x, 3x OCMOD Journal 3 Support: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37394
+- Delete Old Images (**$29.99**): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37677
 - OpenCart Template Switcher: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=31589
 - Google reCAPTCHA V3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41838
 - Return Email: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36977
