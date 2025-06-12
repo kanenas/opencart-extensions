@@ -27,6 +27,7 @@
 - CKEditor Full v.4.22.1 (Replace for Summernote) (**$20**): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=21884
 - Guest Order View - Let guest customers track their order: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=21223
 - Guest Order View: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=4332
+- Mastercard Gateway: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=46120
 - Extra pages OC 2,3x: Latest, Popular, Bestsellers, All products: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26172
 - Always display categorys/subcategories in breadcrumbs: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=32612
 - BestPrice 360: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38118
