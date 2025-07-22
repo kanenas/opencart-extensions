@@ -17,6 +17,7 @@
 - Add product image column to order form and print invoice: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41145
 - [Free] Ajax live search: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26240
 - ExtendedSearch - extends the standard search functionality: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22288
+- FilterImageID - admin filter by product image and id: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=20550
 - WebP Images: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38025
 - WebP Images for Opencart 2x, 3x OCMOD Journal 3 Support: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37394
 - Delete Old Images (**$29.99**): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37677
