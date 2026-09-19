@@ -8,6 +8,7 @@
 - Fix OC 3.x Extension Installer: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33410
 - Admin Menu Fix Opencart 3: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42126
 - Full Greek Translation 3.x.x (Store-Admin): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33334
+- Hide Disabled Languages (Admin): https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=27975
 - QuickSave for Products, Categories, Manufacturers and Infos: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=26386
 - EnableDisable Products - add buttons for batch processing: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=22888
 - Filter By Category: https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34415
